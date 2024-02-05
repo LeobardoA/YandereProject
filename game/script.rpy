@@ -13,6 +13,7 @@ label start:
     # defecto. Es posible añadir un archivo en el directorio 'images' con el
     # nombre "bg room.png" or "bg room.jpg" para que se muestre aquí.
     # leo puto
+    #No mas puto que tu
     scene bg room
 
     # Muestra un personaje: Se usa un marcador de posición. Es posible
